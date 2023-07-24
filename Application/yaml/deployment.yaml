@@ -11,7 +11,7 @@ spec:
       app: user14-hello-world
   template:
     metadata:
-      labels:
+      labels: 
 # set your lab user name
         app: user14-hello-world
     spec:
